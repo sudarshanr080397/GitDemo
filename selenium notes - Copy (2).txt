@@ -1,6 +1,0 @@
-selenium,
-Appium,
-Jmeter performance
-
-selenium has two things one is selenium IDE(it is a record and playback) and selenium web driver(it is the successor of the
-selenium RC which is deprecated).
